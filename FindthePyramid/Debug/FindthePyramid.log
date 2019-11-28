@@ -1,0 +1,3 @@
+﻿  FindthePyramid.c
+  C:\YERIN\MIRIM\CPU\IT쇼\FindthePyramid\FindthePyramid\FindthePyramid.c(100) : warning C4715: 'keyControl': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  FindthePyramid.vcxproj -> C:\YERIN\MIRIM\CPU\IT쇼\FindthePyramid\Debug\FindthePyramid.exe
